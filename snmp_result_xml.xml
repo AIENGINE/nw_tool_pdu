@@ -1,0 +1,14 @@
+<snmpresult>
+	<testname name="SNMP" verison="1.0"/>
+	<testmodule modulename="Req-App" type="Application logic test"/>
+	<testfileinput>output_snmp.txt</testfileinput>
+	<testfilemodified>file.txt</testfilemodified>
+	<testrun>1</testrun>
+	<testcases>10601</testcases>
+	<totaltestgroups>57</totaltestgroups>
+	<elapsedtime>NA</elapsedtime>
+	<advanced-options option="NA">notactivated</advanced-options>
+	<testgrouperror group="NA"/>
+	<testfilediff>None</testfilediff>
+	<testcase errortype="notfound" number="NA"/>
+</snmpresult>
